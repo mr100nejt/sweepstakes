@@ -9,7 +9,8 @@ namespace SweepStakes
     class MarketingFirm
     {
         public int counter = 0;
-       
+        public int sweepStakesCounter = 0;
+
         public MarketingFirm(ISweepstakesManager storageType)
         {
            

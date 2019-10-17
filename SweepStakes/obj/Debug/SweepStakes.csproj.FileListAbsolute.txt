@@ -4,3 +4,9 @@ C:\Users\jokes\source\repos\SweepStakes\SweepStakes\bin\Debug\SweepStakes.pdb
 C:\Users\jokes\source\repos\SweepStakes\SweepStakes\obj\Debug\SweepStakes.csprojAssemblyReference.cache
 C:\Users\jokes\source\repos\SweepStakes\SweepStakes\obj\Debug\SweepStakes.exe
 C:\Users\jokes\source\repos\SweepStakes\SweepStakes\obj\Debug\SweepStakes.pdb
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\obj\Debug\SweepStakes.csprojAssemblyReference.cache
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\obj\Debug\SweepStakes.exe
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\obj\Debug\SweepStakes.pdb
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\bin\Debug\SweepStakes.exe.config
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\bin\Debug\SweepStakes.exe
+C:\Users\jokes\Desktop\c# devCodeCamp projects\SweepStakes\SweepStakes\bin\Debug\SweepStakes.pdb
